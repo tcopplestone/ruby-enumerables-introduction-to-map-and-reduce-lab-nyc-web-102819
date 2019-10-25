@@ -1,6 +1,6 @@
 def map_to_negativize(source_array)
   new_array = []
-  
+  counter = 0
 end
 
 def map_to_no_change(source_array)
