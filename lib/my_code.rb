@@ -22,4 +22,6 @@ def reduce_to_all_true(source_array)
 
 end
 
-def 
+def reduce_to_any_true(source_array)
+
+end
